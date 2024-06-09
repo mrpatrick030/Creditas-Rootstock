@@ -53,10 +53,8 @@ After creating the loan, you will be automatically navigated to the Lending sect
 ### Lending
 ![File](https://ipfs.filebase.io/ipfs/QmP2r6Wftt8meiD1dgN3syNDVKYxToxmTFzQa8fFhW3DCB)
 Lending on Creditas is easier than you think, with a smooth user experience, users can easily carry out lending activities. With a "View all loans" section, "Loans you funded" and "Loans you created" sections, users can easily track their loan activities. Search and pagination functionaliites also compliment this beauty of a Lending dApp. To lend, the following buttons are available to use on the dApp.
-* #### Fund loan ####: 
-This button is the button a user clicks on to fund a loan created by a borrower. No user can fund his own loan.
-* #### Claim collateral ####: 
-The claim collateral button is typically available for the lender to use in case a borrower fails to repay a loan during the specified duration in the loan. You can only claim collateral of a loan you funded.
+* Fund loan: This button is the button a user clicks on to fund a loan created by a borrower. No user can fund his own loan.
+* Claim collateral: The claim collateral button is typically available for the lender to use in case a borrower fails to repay a loan during the specified duration in the loan. You can only claim collateral of a loan you funded.
 * Withdraw loan: This button can be used by the borrower of a loan to withdraw the loan after it has been funded by a lender.
 * Repay loan: This button is available to only the borrower of a loan such that before the end of the loan duration, the borrower uses it to repay the borrowed amount with interest.
 * Withdraw collateral: If there is a scenario where there is no lender of a loan you created as a borrower, you can use this button to withdraw your collateral back. You can use this button only when your loan has not been funded.
