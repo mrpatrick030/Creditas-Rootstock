@@ -61,7 +61,7 @@ Lending on Creditas is easier than you think, with a smooth user experience, use
 
 ### Creditas Decentralised Chat System
 ![File](https://ipfs.filebase.io/ipfs/QmPDo5MNVevQhj51JdUh7QwYLMLyW7QjWczqmwBS24XD7G)
-For effective communication between borrowers and lenders, Creditas users are able to chat using this chat system. Please do not send funds to lender or borrower directly. The dApp handles all of that. 
+For effective communication between borrowers and lenders, Creditas users are able to chat using this chat system. Only the lender and borrower of a particular loan can chat using this chat system. Please do not send funds to lender or borrower directly. The dApp handles all of that. 
 
 ### Creditas Token (ULT)
 The Creditas token (ULT) is the native token of Creditas and is used as a collateral for lending. Other tokens available as collaterals currently are USDT and DAI. 
