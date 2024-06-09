@@ -22,7 +22,7 @@ To connect wallet, go to our [Web App](https://Creditasdapp.vercel.app). For des
 
 ### Get testnet tRBTC for gas fees payments
 ![File](https://ipfs.filebase.io/ipfs/QmeTAgrea7RSrNT3siQuFW98TBsx1SVxpVEemYCwE6UEs4)
-With Creditas being deployed currently on the testnet of Rootstock, testnet tRBTC would definitely be required to pay for gas fees during transactions. Testnet tRBTC can be obtained from the [Rootstock testnet faucet](https://faucet.rootstock.io/).
+With Creditas being deployed currently on the testnet of Rootstock, testnet tRBTC is required to pay for gas fees during transactions. Testnet tRBTC can be obtained from the [Rootstock testnet faucet](https://faucet.rootstock.io/).
 
 ### Web app homepage
 The homepage of the Creditas's web app is the first page you see when you visit the app. It is the gateway to Creditas's dashboard and features the wallet connect button as well as other important information about the platform including documentation.
