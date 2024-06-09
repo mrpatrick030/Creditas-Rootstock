@@ -59,6 +59,9 @@ Lending on Creditas is easier than you think, with a smooth user experience, use
 * Repay loan: This button is available to only the borrower of a loan such that before the end of the loan duration, the borrower uses it to repay the borrowed amount with interest.
 * Withdraw collateral: If there is a scenario where there is no lender of a loan you created as a borrower, you can use this button to withdraw your collateral back. You can use this button only when your loan has not been funded.
 
+### Creditas Decentralised Chat System
+![File](https://ipfs.filebase.io/ipfs/QmPDo5MNVevQhj51JdUh7QwYLMLyW7QjWczqmwBS24XD7G)
+For effective communication between borrowers and lenders, Creditas users are able to chat using this chat system. Please do not send funds to lender or borrower directly. The dApp handles all of that. 
 
 ### Creditas Token (ULT)
 The Creditas token (ULT) is the native token of Creditas and is used as a collateral for lending. Other tokens available as collaterals currently are USDT and DAI. 
