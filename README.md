@@ -64,7 +64,7 @@ In future upgrades of this project, more dApp features/services will be integrat
 
 ## Creditas ERC20 (ULT) Contract
 
-✅ [Creditas](https://explorer.testnet.rootstock.io/address/0x1d5cd5833f43c63f724ebb0f28c6aaed79bf5bf2) 🟢
+✅ [Creditas Token](https://explorer.testnet.rootstock.io/address/0x1d5cd5833f43c63f724ebb0f28c6aaed79bf5bf2) 🟢
 - Address: `0x1d5cd5833f43c63f724ebb0f28c6aaed79bf5bf2`
 
 # Other Tokens
