@@ -14,7 +14,7 @@ Solidity, Foundry, OpenZeppelin
 ### Front end and Integration Tools
 Web3Modal, Ethers.js, Rootstock testnet Token Tracker, Next.js, Node.js, JavaScript, Tailwind CSS, Trading View Live API, Filebase storage, PostgreSQL
 
-## The Creditas's Products
+## The Creditas's User Flow
 
 ### Connect Wallet
 ![File](https://ipfs.filebase.io/ipfs/QmY5gXEQbqxiSFsdsg3qLLhjTQfGoboMH3cHkXnY9FqZyP)
