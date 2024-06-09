@@ -21,6 +21,7 @@ Web3Modal, Ethers.js, Rootstock testnet Token Tracker, Next.js, Node.js, JavaScr
 To connect wallet, go to our [Web App](https://Creditasdapp.vercel.app). For desktop, click on the "Connect Wallet" button on the upper right of the screen and choose your login method either with wallet or email. If you don't have a wallet installed already, the wallet connect window has links to download a wallet of your choice on your device's browser (Brave browser, Google Chrome, Opera browser, or Yandex browser all work fine). On mobile, simply download your desired EVM-compatible wallet and use its inbuilt browser to connect to Creditas. Connect your wallet by clicking on the "Connect wallet" button on the upper right of the screen. Ensure to change network to Rootstock test network from the wallet connect window. The display on the screen will change after connecting (typically, it shows your tRBTC balance and a substring of your connected wallet address).
 
 ### Get testnet tRBTC for gas fees payments
+![File](https://ipfs.filebase.io/ipfs/QmeTAgrea7RSrNT3siQuFW98TBsx1SVxpVEemYCwE6UEs4)
 With Creditas being deployed currently on the testnet of Rootstock, testnet tRBTC would definitely be required to pay for gas fees during transactions. Testnet tRBTC can be obtained from the [Rootstock testnet faucet](https://faucet.rootstock.io/).
 
 ### Web app homepage
