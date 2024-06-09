@@ -52,6 +52,9 @@ After creating the loan, you will be automatically navigated to the Lending sect
 
 ### Lending
 ![File](https://ipfs.filebase.io/ipfs/QmP2r6Wftt8meiD1dgN3syNDVKYxToxmTFzQa8fFhW3DCB)
+Lending on Creditas is easier than you think, with a smooth user experience, users can easily carry out lending activities. With a "View all loans" section, "Loans you funded" and "Loans you created" sections, users can easily track their loan activities. Search and pagination functionaliites also compliment this beauty of a Lending dApp. To lend, the following buttons are available to use on the dApp.
+* Fund loan: This button is the button a user clicks on to fund a loan created by a borrower. No user can fund his own loan.
+* 
 
 
 
