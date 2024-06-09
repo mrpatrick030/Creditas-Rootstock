@@ -55,7 +55,7 @@ In future upgrades of this project, more dApp features/services will be integrat
 
 
 # Contract Addresses with Rootstock Testnet Links [Rootstock Explorer](https://explorer.testnet.rootstock.io)
-![File](https://ipfs.filebase.io/ipfs/QmNYspNFfUD1zb2xErbZFkdmn3wv8SV1sh38i9W1THkeGp)
+![File](https://ipfs.filebase.io/ipfs/QmUbcvrVF2FuDY5n8BDRSFJ3L2Raie2crQrUuwkFgGHaMg)
 
 ## P2P Lending/Borrowing Contract
 
