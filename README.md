@@ -50,6 +50,11 @@ To borrow, follow the steps below (Your wallet will popup to sign the transactio
 * Proceed to create the loan by clicking on the "Create Loan" button.
 After creating the loan, you will be automatically navigated to the Lending section where you can monitor all your created loans.
 
+### Lending
+![File](https://ipfs.filebase.io/ipfs/QmP2r6Wftt8meiD1dgN3syNDVKYxToxmTFzQa8fFhW3DCB)
+
+
+
 
 ### Creditas Token (ULT)
 The Creditas token (ULT) is the native token of Creditas and is used as a collateral for lending. Other tokens available as collaterals currently are USDT and DAI. 
