@@ -1,5 +1,5 @@
 # Creditas Documentation [Web App](https://creditasdapp.vercel.app) / [Demo Video](https://youtu.be/JmK5-9mpDOk?si=caAhJLKhu2tL_ibK)
-[Creditas](https://ipfs.filebase.io/ipfs/QmRxLpsZSFTuZg6c6cNXxRnUFsyNA3QEPvpNQc8eRWuJUK)
+![File](https://ipfs.filebase.io/ipfs/QmRxLpsZSFTuZg6c6cNXxRnUFsyNA3QEPvpNQc8eRWuJUK)
 Through its P2P Lending/Borrowing dApp, Creditas is a DeFi protocol that aims to address a number of lending and borrowing-related difficulties. Creditas provides platform users with an easy-to-use interface by combining front end, integration, and smart contract technologies in a powerful way. The Rootstock test network is the foundation of Creditas.
 Yes, your data and assets on the platform are safe and only accessible by you with a wallet or email login, but the Creditas dashboard makes it easy to access the platform's dApp.
 
