@@ -31,9 +31,11 @@ The homepage of the Creditas's web app is the first page you see when you visit 
 This is the most functional part of Creditas. It houses the most important parts of the platform including User's Balances, Metrics and the P2P Lending/Borrowing dApp.
 
 ### User's Balances
+![File](https://ipfs.filebase.io/ipfs/QmVEpoh4TWRAiEYB4STqQzNSTjrSR5fWtDwtBWsqNFx5L9)
 This section of the dashboard shows all the balances of a user after logging in. It displays the following info for a user: ULT balance, ULT price, tRBTC balance, number of loans you created, number of loans you funded.
 
 ### Metrics
+![File](https://ipfs.filebase.io/ipfs/QmNYspNFfUD1zb2xErbZFkdmn3wv8SV1sh38i9W1THkeGp)
 The metrics section shows live updates to Creditas including the following: ULT Total Supply, ULT Price, Protocol Blockchain, Total number of Loans, Max Loan Amount, Min Loan Amount, contract addresses of all contracts used by the protocol and Live BTC market chart.
 
 
