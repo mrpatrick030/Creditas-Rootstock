@@ -74,30 +74,30 @@ In future upgrades of this project, more dApp features/services will be integrat
 * Kolapo Goodness - Smart contract developer (Web3Bridge)
 
 
-# Contract Addresses with Rootstock Testnet Links [Rootstock Explorer](https://explorer.testnet.rootstock.io)
+## Contract Addresses with Rootstock Testnet Links [Rootstock Explorer](https://explorer.testnet.rootstock.io)
 ![File](https://ipfs.filebase.io/ipfs/QmUbcvrVF2FuDY5n8BDRSFJ3L2Raie2crQrUuwkFgGHaMg)
 
-## P2P Lending/Borrowing Contract
+### P2P Lending/Borrowing Contract
 
 ✅ [P2PLending](https://explorer.testnet.rootstock.io/address/0xe9c49311b81545cced67ab3313c8f4f938ba1920) 🟢
 - Address: `0xe9c49311b81545cced67ab3313c8f4f938ba1920`
 
-## Creditas ERC20 (ULT) Contract
+### Creditas ERC20 (ULT) Contract
 
 ✅ [Creditas Token](https://explorer.testnet.rootstock.io/address/0x1d5cd5833f43c63f724ebb0f28c6aaed79bf5bf2) 🟢
 - Address: `0x1d5cd5833f43c63f724ebb0f28c6aaed79bf5bf2`
 
-# Other Tokens
+## Other Tokens
 
-## USDT
+### USDT
 
 - **[USDT](https://explorer.testnet.rootstock.io/address/0xadd24771bcb47b28d85cefb641ef469bc9e52cf7)**: 0xadd24771bcb47b28d85cefb641ef469bc9e52cf7
 
-## DAI
+### DAI
 
 - **[DAI](https://explorer.testnet.rootstock.io/address/0x5816ab7fffd3f5c4d1897539240873b29c0f3aec)**: 0x5816ab7fffd3f5c4d1897539240873b29c0f3aec
 
-# P2PLending Smart Contract Documentation
+# P2PLending Smart Contract Technical Documentation
 
 ## Overview
 
