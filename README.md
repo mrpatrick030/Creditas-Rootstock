@@ -67,7 +67,7 @@ For effective communication between borrowers and lenders, Creditas users are ab
 The Creditas token (ULT) is the native token of Creditas and is used as a collateral for lending. Other tokens available as collaterals currently are USDT and DAI. 
 
 ## Additional Notes
-In future upgrades of this project, more dApp features/services will be integrated. We are also focussed on user experience. File sharing through IPFS and Filebase SDK will also be integrated in the decentralised chat system for effective communication.
+In future upgrades of this project, more dApp features/services will be integrated. We are also focussed on user experience. Notifications will be enabled in the Lending dApp. File sharing through IPFS and Filebase SDK will also be integrated in the decentralised chat system for effective communication.
 
 ## Team Members (Team Creditas)
 * Patrick Ominisan - Blockchain developer (Web3Bridge)
