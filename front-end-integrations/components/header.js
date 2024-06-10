@@ -62,7 +62,7 @@ export default function Header(){
        </div>
        <div className='mt-[1cm]' style={{display:"block"}}>
        <Link href="/" onClick={(e) => changemenubehaviour2(e)}><img src="images/logo.png" width="140" style={{display:"inline-block"}}/></Link>
-       <Link href="https://rootstock.io/" onClick={(e) => changemenubehaviour2(e)}><img src="images/tRBTC.png" width="23" className='ml-[0.5cm] rounded-[100%]' style={{display:"inline-block"}}/></Link>
+       <Link href="https://rootstock.io/" onClick={(e) => changemenubehaviour2(e)}><img src="images/tRBTC.png" width="26" className='ml-[0.5cm] rounded-[100%]' style={{display:"inline-block"}}/></Link>
        </div>
       </div>
       </div>
