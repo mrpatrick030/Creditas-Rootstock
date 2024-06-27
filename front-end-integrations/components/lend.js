@@ -448,7 +448,7 @@ export default function LendSection() {
     {(data.collateral.toString().toLowerCase()) === daiContractAddress.toLowerCase() && (<span> DAI</span>)}
     </div>
     <div className="m-[0.2cm]" style={{display:"inline-block"}}><span className="bg-[#502] rounded-md px-[0.3cm] py-[0.1cm] text-[80%]" style={{border:"2px solid #333"}}>Collateral amount</span> {parseFloat(data.collateralAmount.toString() * 10**-18).toFixed(10)}</div>
-    <div className="m-[0.2cm]" style={{display:"inline-block"}}><span className="bg-[#502] rounded-md px-[0.3cm] py-[0.1cm] text-[80%]" style={{border:"2px solid #333"}}>Collateral BEP20 ?</span>
+    <div className="m-[0.2cm]" style={{display:"inline-block"}}><span className="bg-[#502] rounded-md px-[0.3cm] py-[0.1cm] text-[80%]" style={{border:"2px solid #333"}}>Collateral ERC20 ?</span>
      {(data.isCollateralErc20) == true && (<span> yes</span>)} 
      {(data.isCollateralErc20) == false && (<span> no</span>)} 
     </div>
@@ -506,7 +506,7 @@ export default function LendSection() {
     {(data.collateral.toString().toLowerCase()) === daiContractAddress.toLowerCase() && (<span> DAI</span>)}
     </div>
     <div className="m-[0.2cm]" style={{display:"inline-block"}}><span className="bg-[#502] rounded-md px-[0.3cm] py-[0.1cm] text-[80%]" style={{border:"2px solid #333"}}>Collateral amount</span> {parseFloat(data.collateralAmount.toString() * 10**-18).toFixed(10)}</div>
-    <div className="m-[0.2cm]" style={{display:"inline-block"}}><span className="bg-[#502] rounded-md px-[0.3cm] py-[0.1cm] text-[80%]" style={{border:"2px solid #333"}}>Collateral BEP20 ?</span>
+    <div className="m-[0.2cm]" style={{display:"inline-block"}}><span className="bg-[#502] rounded-md px-[0.3cm] py-[0.1cm] text-[80%]" style={{border:"2px solid #333"}}>Collateral ERC20 ?</span>
      {(data.isCollateralErc20) == true && (<span> yes</span>)} 
      {(data.isCollateralErc20) == false && (<span> no</span>)} 
     </div>
@@ -559,7 +559,7 @@ export default function LendSection() {
     {(data.collateral.toString().toLowerCase()) === daiContractAddress.toLowerCase() && (<span> DAI</span>)}
     </div>
     <div className="m-[0.2cm]" style={{display:"inline-block"}}><span className="bg-[#502] rounded-md px-[0.3cm] py-[0.1cm] text-[80%]" style={{border:"2px solid #333"}}>Collateral amount</span> {parseFloat(data.collateralAmount.toString() * 10**-18).toFixed(10)}</div>
-    <div className="m-[0.2cm]" style={{display:"inline-block"}}><span className="bg-[#502] rounded-md px-[0.3cm] py-[0.1cm] text-[80%]" style={{border:"2px solid #333"}}>Collateral BEP20 ?</span>
+    <div className="m-[0.2cm]" style={{display:"inline-block"}}><span className="bg-[#502] rounded-md px-[0.3cm] py-[0.1cm] text-[80%]" style={{border:"2px solid #333"}}>Collateral ERC20 ?</span>
      {(data.isCollateralErc20) == true && (<span> yes</span>)} 
      {(data.isCollateralErc20) == false && (<span> no</span>)} 
     </div>
@@ -616,7 +616,7 @@ export default function LendSection() {
     {(data.collateral.toString().toLowerCase()) === daiContractAddress.toLowerCase() && (<span> DAI</span>)}
     </div>
     <div className="m-[0.2cm]" style={{display:"inline-block"}}><span className="bg-[#502] rounded-md px-[0.3cm] py-[0.1cm] text-[80%]" style={{border:"2px solid #333"}}>Collateral amount</span> {parseFloat(data.collateralAmount.toString() * 10**-18).toFixed(10)}</div>
-    <div className="m-[0.2cm]" style={{display:"inline-block"}}><span className="bg-[#502] rounded-md px-[0.3cm] py-[0.1cm] text-[80%]" style={{border:"2px solid #333"}}>Collateral BEP20 ?</span>
+    <div className="m-[0.2cm]" style={{display:"inline-block"}}><span className="bg-[#502] rounded-md px-[0.3cm] py-[0.1cm] text-[80%]" style={{border:"2px solid #333"}}>Collateral ERC20 ?</span>
      {(data.isCollateralErc20) == true && (<span> yes</span>)} 
      {(data.isCollateralErc20) == false && (<span> no</span>)} 
     </div>
