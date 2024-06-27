@@ -1,5 +1,5 @@
 # Creditas Documentation [Web App](https://creditasdapp.vercel.app) / [Demo Video](https://youtu.be/fXart6bSfwQ?si=0eZla7T15o4s-IhF)
-![File](https://ipfs.filebase.io/ipfs/QmRxLpsZSFTuZg6c6cNXxRnUFsyNA3QEPvpNQc8eRWuJUK)
+![File](https://ipfs.filebase.io/ipfs/QmQCswimNDRcyyLqXLNrQLhSPh7Lef9gLTXQUQ7L21XLwR)
 Through its P2P Lending/Borrowing dApp characterized by collaterals, Creditas is a DeFi protocol that aims to address a number of lending and borrowing-related difficulties. Creditas provides platform users with an easy-to-use interface by combining front end, integration, and smart contract technologies in a powerful way. The Rootstock test network is the foundation of Creditas.
 Yes, your data and assets on the platform are safe and only accessible by you with a wallet or email login, but the Creditas dashboard makes it easy to access the platform's dApp.
 
@@ -51,7 +51,7 @@ To borrow, follow the steps below (Your wallet will popup to sign the transactio
 After creating the loan, you will be automatically navigated to the Lending section where you can monitor all your created loans.
 
 ### Lending
-![File](https://ipfs.filebase.io/ipfs/QmP2r6Wftt8meiD1dgN3syNDVKYxToxmTFzQa8fFhW3DCB)
+![File](https://ipfs.filebase.io/ipfs/QmUBtBqk3cmc9eFMCjypygzQ12PcbMUkC4LHPWBbChKJtx)
 Lending on Creditas is easier than you think, with a smooth user experience, users can easily carry out lending activities. With a "View all loans" section, "Loans you funded" and "Loans you created" sections, users can easily track their loan activities. Search and pagination functionaliites also compliment this beauty of a Lending dApp. To lend, the following buttons are available to use on the dApp.
 * Fund loan: This button is the button a user clicks on to fund a loan created by a borrower. No user can fund his own loan.
 * Claim collateral: The claim collateral button is typically available for the lender to use in case a borrower fails to repay a loan during the specified duration in the loan. You can only claim collateral of a loan you funded.
